@@ -1,0 +1,37 @@
+{
+  "name": "vic-and-jammie",
+  "version": "0.0.1",
+  "description": "Vic and Jammie",
+  "keywords": [
+    "2017",
+    "7drl",
+    "Earl",
+    "game",
+    "ToeJam",
+    "rogue",
+    "roguelike"
+  ],
+  "homepage": "https://github.com/blinkdog/7drl-2017",
+  "bugs": "https://github.com/blinkdog/7drl-2017/issues",
+  "license": "AGPL-3.0",
+  "author": "Patrick Meade <veloxi@ticon.net>",
+  "files": [
+    "game.html",
+    "LICENSE",
+    "package.json",
+    "README.md",
+    "static"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blinkdog/7drl-2017.git"
+  },
+  "devDependencies": {
+    "browserify": "14.1.0",
+    "coffee-script": "1.12.4",
+    "istanbul": "0.4.5",
+    "mocha": "3.2.0",
+    "should": "11.2.0",
+    "underscore": "1.8.3"
+  }
+}
